@@ -28,13 +28,9 @@ What things you need to install the software
 
 * [Python 3.x](https://www.python.org/) - A Programing languague
 
-## Contributing
 
-We welcome contributions from the public.
 
-## Authors
 
-* **Ayush Agarwal** - *Initial work* - [Ayush](https://github.com/ayushagarwalk)
 
-See also the list of [contributors](https://github.com/ayushagarwalk/Email-Scraping/contributors) who participated in this project.
+
 
